@@ -1,6 +1,6 @@
 __Instructors__:  
--[Alina Ene] 
--[Lorenzo Orecchia] 
+-[Alina Ene];  
+-[Lorenzo Orecchia]; 
 
 [Alina Ene]: http://cs-people.bu.edu/aene/
 [Lorenzo Orecchia]: http://cs-people.bu.edu/orecchia/index.html
