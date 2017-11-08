@@ -1,44 +1,29 @@
----
-title: Convex Optimization Algorithms # overall title
-email: orecchia@bu.edu # email for website
-description: > # this means to ignore newlines until "baseurl:"
-    Website for BU's CS 591E2 in Spring 2018.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: lorecchia
-markdown: kramdown
----
+__Instructors__:  
+-[Alina Ene] 
+-[Lorenzo Orecchia] 
 
-__Instructor__: [Prof. Lorenzo Orecchia](http://orecchia.net).  
- _Office hours_: M 12n-1p, F 1p-2p, in MCS 135D.  
+[Alina Ene]: http://cs-people.bu.edu/aene/
+[Lorenzo Orecchia]: http://cs-people.bu.edu/orecchia/index.html
 
-__Teaching Fellow__: Hannah Flynn  (hmflynn at bu.edu)   
- _Office hours_: T 2-3.30pm, W 5-6.30pm in the Undegraduate Lab.
- 
- __Undergraduate Assistants__:   
-Jiadong Chen (chenjd at bu.edu)  
-_Tutoring hours_: T6-7.30 in the Undergraduate Lab   
-Sarah M'Saad (sarms at bu.edu)   
-_Tutoring hours_: W5-6.30 in the Undergraduate Lab   
+ _Office hours_: TBA
 
-__Lectures__: Tue,Thu 3.30pm-4.45pm in KCB-101.  
-__Labs__:  
-  A2:    Wed 11.15am-12.05pm, in MCS B33  
-  A3:    Wed 1.25pm-2.15pm, in MCS B25  
-  A4:    Wed 2.30pm-3.20pm, in MCS B21  
-  A5:    Wed 3.35pm-4.25pm, in BRB 122  
+__Lectures__: Tue,Thu 3.30pm-4.45pm in MCB-B23.  
 
+__Syllabus__: TBA
 
-__Syllabus__: see the tentative course schedule [here](https://docs.google.com/spreadsheets/d/16zU7A5lqDNNbJVjETO6XPas3sM0HMOGMlxghBtLTOz0/edit?usp=sharing).
 
 ## Official Course Description
 
-Representation, analysis, techniques, and principles for manipulation of basic combinatoric structures used in computer science. Rigorous reasoning is emphasized. 
-The course is a required class for CS concentrators.
+ Large-scale convex optimization algorithms have had a significant impact in many areas of Computer Science and Engineering, including machine learning, signal processing and operations research. The objectives of this course are:
 
-**Prerequisites**: high school mathematics.
+Develop the core mathematical framework of convex analysis, with a particular focus on duality;
+Study classes of convex optimization algorithms along with their complexity analysis;
+Discuss general methods for large-scale convex optimization, such as gradient descent and its stochastic variants;
+Discuss structural convex optimization, to develop the capability of designing customized algorithms by exploiting problem structure, such as interior-point methods and network-flow methods.
 
+**Prerequisites**: Linear Algebra, Calculus, Algorithms at the undergraduate level. Basic understanding of multivariate calculus.
 
+<!--
 ## Class Websites
 
 This webpage will not update during the course. All communications and course administration will be managed through the two following websites:
@@ -48,20 +33,6 @@ This webpage will not update during the course. All communications and course ad
 Your activity on Piazza may be taken into account as part of the participation component of your grade.
 
 - We will use the [Blackboard website for CS131](learn.bu.edu) for its gradesheet capability and for some self-assessment tasks.
-
-
-## Clickers
-
-During lecture, we will be using clickers as an audience response system. All students should set up a clicker (or use the equivalent smartphone app) and register it for CS 131 by following the [instructions here](clicker.html).
-
-
-
-## Textbooks
-
-The main textbook for this class will be [**Discrete Mathematics and Its Applications** by **Kenneth Rosen**](https://www.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090/ref=sr_1_1?ie=UTF8&qid=1482709210&sr=8-1&keywords=discrete+mathematics+and+its+applications+7th+edition ). The book is also available at the campus bookstore. 
-
-At the beginning of the term, we will learn the basics of logic, set
-notation, and elementary proof techniques. If you are unfamiliar with devising and writing proofs, you may consider the textbook [**How To Prove It: A Structured Approach** by **Daniel Velleman**](http://www.amazon.com/How-Prove-It-Structured-Approach/dp/0521675995/ref=dp_ob_title_bk). Available on Amazon and at the campus bookstore.
 
 
 ## Exams
@@ -125,4 +96,5 @@ covered by our textbooks.
 - You are not permitted to collaborate on exams.
 The last point is particularly important: if you don't make an honest effort on the homework but always get ideas from others, your exam scores (accounting for the majority of your grade) will reflect it.
 
+--!>
 
