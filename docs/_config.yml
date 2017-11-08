@@ -30,8 +30,8 @@ theme: jekyll-theme-architect
 
 #gems:
 #  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
 
 
