@@ -1,3 +1,14 @@
+---
+title: Convex Optimization Algorithms # overall title
+email: orecchia@bu.edu # email for website
+description: > # this means to ignore newlines until "baseurl:"
+    Website for BU's CS 591E2 in Spring 2018.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: lorecchia
+markdown: kramdown
+---
+
 __Instructor__: [Prof. Lorenzo Orecchia](http://orecchia.net).  
  _Office hours_: M 12n-1p, F 1p-2p, in MCS 135D.  
 
