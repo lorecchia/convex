@@ -96,5 +96,5 @@ covered by our textbooks.
 - You are not permitted to collaborate on exams.
 The last point is particularly important: if you don't make an honest effort on the homework but always get ideas from others, your exam scores (accounting for the majority of your grade) will reflect it.
 
---!>
+-->
 
