@@ -13,6 +13,8 @@ __Lectures__: Tue,Thu 3.30pm-4.45pm in MCB-B23.
 
 __Syllabus__: TBD
 
+[__Resources__] (resources.md)
+
 
 ## Official Course Description
 
