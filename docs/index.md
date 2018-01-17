@@ -1,100 +1,58 @@
-__Instructors__:  
+__Instructors __:  
 -[Alina Ene];  
 -[Lorenzo Orecchia]; 
 
-[Alina Ene]: http://cs-people.bu.edu/aene/
-[Lorenzo Orecchia]: http://cs-people.bu.edu/orecchia/index.html
+_Class Calendar_: TBD
 
- _Office hours_: TBA
+_Office hours_: 
+- Alina T 5pm-6.30pm; Th 1pm-2.30pm
+- Lorenzo W  12n-1.30pm; Th 1pm-2.30pm 
+Check class calendar for updates.
 
 __Lectures__: Tue,Thu 3.30pm-4.45pm in MCB-B23.  
 
-__Syllabus__: TBA
+__Syllabus__: TBD
 
 
 ## Official Course Description
 
- Large-scale convex optimization algorithms have had a significant impact in many areas of Computer Science and Engineering, including machine learning, signal processing and operations research. The objectives of this course are:
+Large-scale convex optimization algorithms have had a significant impact in many areas of Computer Science and Engineering, including machine learning, signal processing and operations research. The objectives of this course are:
 
-Develop the core mathematical framework of convex analysis, with a particular focus on duality;
-Study classes of convex optimization algorithms along with their complexity analysis;
-Discuss general methods for large-scale convex optimization, such as gradient descent and its stochastic variants;
-Discuss structural convex optimization, to develop the capability of designing customized algorithms by exploiting problem structure, such as interior-point methods and network-flow methods.
+1. Develop the core mathematical framework of convex analysis, with a particular focus on duality;
+2. Study classes of convex optimization algorithms along with their complexity analysis;
+3. Discuss general methods for large-scale convex optimization, such as gradient descent and its stochastic variants;
+4. Discuss structural convex optimization, to develop the capability of designing customized algorithms by exploiting problem structure, such as interior-point methods and network-flow methods.
 
 **Prerequisites**: Linear Algebra, Calculus, Algorithms at the undergraduate level. Basic understanding of multivariate calculus.
 
-<!--
-## Class Websites
+## Communications
 
-This webpage will not update during the course. All communications and course administration will be managed through the two following websites:
+This webpage will not update during the course.  All communications and course administration will be managed through the two following websites:
 
-- We will use Piazza for class discussion. Our class page is located at: <https://piazza.com/bu/spring2017/cs131/home>. Please sign up for access [here](https://piazza.com/bu/spring2017/cs131). We will also use Piazza to post announcements,homework assignments, handouts and other communications. We encourage you to post answers to student questions there
-(but obviously, not answers to problems on the problem sets!). 
-Your activity on Piazza may be taken into account as part of the participation component of your grade.
+- We will use Piazza for class discussion and questions. The system is highly catered to getting you answers to your questions fast and efficiently from classmates and the course staff. Please do not email questions to the course staff, post your questions on Piazza instead. We also encourage you to post answers to student questions there (but obviously, not answers to problems on the current homework). This is the sign-up link: <piazza.com/bu/spring2018/cs591e2> . We will also use Piazza to post announcements and all handouts, including homework assignments and solutions.
 
-- We will use the [Blackboard website for CS131](learn.bu.edu) for its gradesheet capability and for some self-assessment tasks.
-
-
-## Exams
-
-There will be two in-class midterms:  
-- Thursday, February 16. [Info for midterm 1](midterm1info.html)  
-- ~~Thursday, March 23~~ Tuesday, March 28.  [Info for midterm 2](midterm2info.html)  
-  
-There will also be a final at the end of the semester.
-
-## Homework Assignments 
-Assignments will typically be due Thursday at 12PM noon. You must submit a hardcopy no later than
-12PM noon in the drop box on the first floor of the MCS building, near the CS
-department office. From the CS office, walk toward the shorter end of the
-hallway, and turn right. Drop box is immediately on your right. Assignments
-must go *in the box* marked CS131, not on the shelves above. Plan on assignments being due every week, except right after a midterm.
-
-We will post solutions shortly after the noon deadline, so homework assignments will
-not be accepted late.  To compute your homework grade, we will automatically drop the lowest score from the 10 assignments, so one bad homework grade is not the end of the
-world. However, we strongly recommend putting forth your best effort on all
-assignments, as they provide the best preparation for the exams. 
-
+- We will use [Gradescope](www.gradescope.com) for submitting, grading and returning assignments. All assignments will be submitted electronically via Gradescope as a PDF. We will provide more instructions with the first assignment.
 
 ## Grading and Attendance
 
-The course score will be broken down as follows:
+The course grade will break down as follows:
 
-- Problem sets: 20%
-- Midterms: 40%
-- Final exam: 35%
-- Attendance and participation: 5%   
+- Homeworks: 35% (the lowest 2 homework scores will be dropped)
+- Midterm exam: 25%
+- Final exam: 35% (cumulative)
+- Attendance and participation in lecture, lab, and Piazza: 5%
+- Last day to drop without a W: Feb 22. With a W: Mar 30. Incompletes will not be granted for this class.
 
-The process of turning scores into grades will be mostly based on the relative score compared to the class as a whole, with a smaller component depending on the absolute value of the score. We will strive to provide the students with predicted letter grades after each midterm.
+__Exams__: There will be a midterm exam and a final exam. The midterm exam will be held in class on Thursday, March 1st. The cumulative final will be held during the two-hour final exam slot scheduled by the college.
+
+__Homework Assignments, Submission, and Late Policy__: Assignments will typically be due on Fridays at 5pm. All assignments will be submitted electronically via Gradescope as a PDF. Assignments will involve both analytic (math) problems and programming in Python. You can either type your homework using LaTex (we will provide a template for each homework) or scan your handwritten work. Plan on assignments being due every two weeks, except right after the midterm, tentatively: Feb 2, Feb 16, Mar 16, Mar 30; Apr 6, Apr 20. 
+
+We will not accept late submissions and we will not grant extensions. To offset this policy, when computing your homework grade, we will automatically drop the lowest 2 homework scores. However, we strongly recommend putting your best effort in every homework, as they provide the best preparation for the exams. As you likely already know, assignments requiring substantial creativity can take more time than you expect, so plan to finish a day early. 
+
+__Regrading Procedure__: If, after reviewing the posted solutions, you still believe a portion of your homework was graded in error, you may request a regrade via Gradescope or via email. Please write, on a PostIt, the problem number and a brief description of the error. Note that when we regrade a problem, your score may go up or down. 
+
+__Attendance__: It is expected that you will attend lecture for this course. We ask that you please arrive to all classes on time, since it is disruptive to have students flowing in throughout the class period. When students are at a borderline between grades, we will factor in attendance and participation before making a final determination.
 
 
-Last day to drop without a W: February 23. With a W: March 31.
-Our midterms are scheduled with these dates in mind. 
-
-
-## Course Policies
-
-**Regrading Procedure**: If, after reviewing the posted solutions, you still
-believe a portion of your homework was graded in error, you may request a
-regrade. Please write, on a PostIt, the problem number and a brief
-description of the incorrect deduction, stick it on your homework, and give
-it to the instructor or the TA for a regrade. Note that when we regrade a problem, your
-score may go up or down.
-
-**Attendance**: It is expected that you will attend lecture and the laboratory
-section for this course and we will take attendance at the beginning of
-lecture and lab on occasion. Some material covered in lecture and lab will not be
-covered by our textbooks. 
-
-**Collaboration Policy**: 
-
-- You are encouraged to collaborate with one another in studying the textbook and lecture material. As long as it satisfies the following conditions, collaboration on the homework assignments is permitted and will not reduce your grade:
-- Before discussing each homework problem with anyone else, you must give it an honest half-hour of serious thought.
-- You may discuss ideas and approaches with other students in the class, but not share any written solutions. In other words, the writeups you submit must be entirely your own work. You must also acknowledge clearly in the appropriate portion of your solutions (e.g., at the top of your writeups) people with whom you discussed ideas for that portion.
-- You may get help from TFs and undergrad assistants for the class for specific problems. Don't expect them to do it for you, however.
-- You may not work with people outside this class (but come and talk to us if you have a tutor), seek on-line solutions, get someone else to do it for you, etc.
-- You are not permitted to collaborate on exams.
-The last point is particularly important: if you don't make an honest effort on the homework but always get ideas from others, your exam scores (accounting for the majority of your grade) will reflect it.
-
--->
-
+[Alina Ene]: http://cs-people.bu.edu/aene/
+[Lorenzo Orecchia]: http://cs-people.bu.edu/orecchia/index.html
