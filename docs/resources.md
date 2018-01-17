@@ -8,5 +8,10 @@ Similar courses
 - [Convex Analysis and Optimization](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-253-convex-analysis-and-optimization-spring-2012/index.htm) at MIT by Bertsekas;
 
 
-Nemirovski
+Reference Material
+------------------
+
+- Convex Analysis and Nonlinear Optimization: Theory and Examples By Jonathan Borwein, Adrian S. Lewis
+- 
+
 
