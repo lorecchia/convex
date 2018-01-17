@@ -1,6 +1,6 @@
 ## Course Info 
 
-_Instructors _:  
+_Instructors_ :  
 -[Alina Ene];  
 -[Lorenzo Orecchia]; 
 
