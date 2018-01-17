@@ -1,4 +1,6 @@
-__Instructors __:  
+## Course Info 
+
+_Instructors _:  
 -[Alina Ene];  
 -[Lorenzo Orecchia]; 
 
