@@ -1,19 +1,19 @@
 ## Course Info 
 
-_Instructors_ :  
+__Instructors__ :  
 -[Alina Ene];  
 -[Lorenzo Orecchia]; 
 
-_Class Calendar_: TBD
+__Class Calendar__: TBD
 
-_Office hours_: 
+__Office hours__: 
 - Alina T 5pm-6.30pm; Th 1pm-2.30pm
 - Lorenzo W  12n-1.30pm; Th 1pm-2.30pm 
 Check class calendar for updates.
 
 __Lectures__: Tue,Thu 3.30pm-4.45pm in MCB-B23.  
 
-__Syllabus__: TBD
+[__Syllabus__](syllabus.md)
 
 [__Resources__](resources.md)
 
