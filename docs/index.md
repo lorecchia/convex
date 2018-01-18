@@ -4,7 +4,6 @@ __Instructors__ :
 -[Alina Ene];  
 -[Lorenzo Orecchia]; 
 
-__Class Calendar__: <iframe src="https://calendar.google.com/calendar/embed?src=dcemo0rpjvrdbkjdnhr0490r1g%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 __Office hours__: 
 - Alina T 5pm-6.30pm; Th 1pm-2.30pm
