@@ -30,7 +30,7 @@ This webpage will not update during the course.  All communications and course a
 
 - We will use Piazza for class discussion and questions. The system is highly catered to getting you answers to your questions fast and efficiently from classmates and the course staff. Please do not email questions to the course staff, post your questions on Piazza instead. We also encourage you to post answers to student questions there (but obviously, not answers to problems on the current homework). This is the sign-up link: <piazza.com/bu/spring2018/cs591e2> . We will also use Piazza to post announcements and all handouts, including homework assignments and solutions.
 
-- We will use [Gradescope](www.gradescope.com) for submitting, grading and returning assignments. All assignments will be submitted electronically via Gradescope as a PDF. We will provide more instructions with the first assignment.
+- We will use [Gradescope](http://www.gradescope.com) for submitting, grading and returning assignments. All assignments will be submitted electronically via Gradescope as a PDF. We will provide more instructions with the first assignment.
 
 ## Grading and Attendance
 
@@ -48,7 +48,7 @@ __Homework Assignments, Submission, and Late Policy__: Assignments will typicall
 
 We will not accept late submissions and we will not grant extensions. To offset this policy, when computing your homework grade, we will automatically drop the lowest 2 homework scores. However, we strongly recommend putting your best effort in every homework, as they provide the best preparation for the exams. As you likely already know, assignments requiring substantial creativity can take more time than you expect, so plan to finish a day early. 
 
-__Regrading Procedure__: If, after reviewing the posted solutions, you still believe a portion of your homework was graded in error, you may request a regrade via Gradescope or via email. Please write, on a PostIt, the problem number and a brief description of the error. Note that when we regrade a problem, your score may go up or down. 
+__Regrading Procedure__: If, after reviewing the posted solutions, you still believe a portion of your homework was graded in error, you may request a regrade via Gradescope. Note that when we regrade a problem, your score may go up or down. 
 
 __Attendance__: It is expected that you will attend lecture for this course. We ask that you please arrive to all classes on time, since it is disruptive to have students flowing in throughout the class period. When students are at a borderline between grades, we will factor in attendance and participation before making a final determination.
 
