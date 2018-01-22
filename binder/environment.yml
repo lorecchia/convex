@@ -1,0 +1,13 @@
+channels:
+    - cvxgrp
+dependencies:    
+    - python
+    - numpy
+    - scipy
+    - multiprocess
+    - toolz
+    - scs
+    - ecos
+    - cvxopt
+    - cvxcanon
+    -setuptools
