@@ -4,6 +4,7 @@ dependencies:
     - python
     - numpy
     - scipy
+    - cvxpy
     - multiprocess
     - toolz
     - scs
