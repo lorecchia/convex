@@ -10,4 +10,4 @@ dependencies:
     - ecos
     - cvxopt
     - cvxcanon
-    -setuptools
+    - setuptools
