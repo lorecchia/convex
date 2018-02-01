@@ -1,3 +1,5 @@
+channels:
+    - cvxgrp
 dependencies:
   - sympy=1.1.1
   - numpy=1.13.3
