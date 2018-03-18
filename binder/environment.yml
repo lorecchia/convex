@@ -7,3 +7,4 @@ dependencies:
   - matplotlib=2.0.2
   - cvxpy
   - opencv3
+  - pil
