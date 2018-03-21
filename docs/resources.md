@@ -15,5 +15,6 @@ Reference Material
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) by Boyd and Vandenberghe
 - Convex Analysis and Nonlinear Optimization: Theory and Examples By Jonathan Borwein, Adrian S. Lewis
 - Convex Analysis and Optimization by Bertsekas, Dimitri P; Nedic, Angelia; Ozdaglar, Asuman E
+- [Introductory Lectures on Convex Optimization](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.855&rep=rep1&type=pdf) by Yurii Nesterov
 
 
