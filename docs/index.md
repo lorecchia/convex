@@ -3,9 +3,9 @@
 __Instructor__ :  [Lorenzo Orecchia];  
 __Teaching Fellow__: [Xin Lu](http://cs-people.bu.edu/xl/)
 
-__Office hours__: 
-- Lorenzo W  12n-1.30pm; Th 1pm-2.30pm 
-Check class calendar for updates.
+__Office hours__:   
+- Lorenzo Th W 4-5pm or by appointment in MCS 135D;
+- Xin TBA;   
 
 __Lectures__: Tue,Thu 12.30pm-1.45pm in MCB-B25.  
 __Discussion Sections__:   
