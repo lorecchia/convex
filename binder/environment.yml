@@ -1,6 +1,5 @@
 dependencies:
   - sympy=1.1.1
-  - numpy=1.13.3
   - matplotlib=2.0.2
   - cvxpy
   - menpo::opencv3
