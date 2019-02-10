@@ -3,5 +3,5 @@ dependencies:
   - numpy=1.13.3
   - matplotlib=2.0.2
   - cvxpy
-  - opencv3
+  - menpo::opencv3
   - pillow
