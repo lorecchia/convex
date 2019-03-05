@@ -1,2 +1,5 @@
 dependencies:
   - cvxpy
+  - sympy
+  - numpy
+  - matplotlib
